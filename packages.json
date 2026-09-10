@@ -2522,15 +2522,15 @@
   },
   {
     "name": "biome2",
-    "version": "2.5.12",
+    "version": "2.5.13",
     "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP",
     "homepage": "https://biomejs.dev/",
     "depends": [],
-    "srcurl": "https://github.com/biomejs/biome/archive/refs/tags/@biomejs/biome@2.5.12.tar.gz",
+    "srcurl": "https://github.com/biomejs/biome/archive/refs/tags/@biomejs/biome@2.5.13.tar.gz",
     "maintainer": "@termux",
-    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/9fb11f2dee/packages/biome2",
-    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/9fb11f2dee/packages/biome2/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/9fb11f2dee/packages/biome2/build.sh",
+    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/cb12e96445/packages/biome2",
+    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/cb12e96445/packages/biome2/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/cb12e96445/packages/biome2/build.sh",
     "package_patch_urls": [],
     "package_patch_raw_urls": [],
     "auto_updated": true
@@ -42592,25 +42592,25 @@
   },
   {
     "name": "unrar",
-    "version": "7.2.7",
+    "version": "7.3.1",
     "description": "Tool for extracting files from .rar archives",
     "homepage": "https://www.rarlab.com/",
     "depends": [
       "libandroid-support",
       "libc++"
     ],
-    "srcurl": "https://www.rarlab.com/rar/unrarsrc-7.2.7.tar.gz",
+    "srcurl": "https://www.rarlab.com/rar/unrarsrc-7.3.1.tar.gz",
     "maintainer": "@termux",
-    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/3a22e2f3a3/packages/unrar",
-    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/3a22e2f3a3/packages/unrar/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/3a22e2f3a3/packages/unrar/build.sh",
+    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/082cfeed75/packages/unrar",
+    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/082cfeed75/packages/unrar/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/082cfeed75/packages/unrar/build.sh",
     "package_patch_urls": [
-      "https://github.com/zrsx/termux-ng/blob/3a22e2f3a3/packages/unrar/makefile.patch",
-      "https://github.com/zrsx/termux-ng/blob/3a22e2f3a3/packages/unrar/os.hpp.patch"
+      "https://github.com/zrsx/termux-ng/blob/082cfeed75/packages/unrar/makefile.patch",
+      "https://github.com/zrsx/termux-ng/blob/082cfeed75/packages/unrar/os.hpp.patch"
     ],
     "package_patch_raw_urls": [
-      "https://raw.githubusercontent.com/zrsx/termux-ng/3a22e2f3a3/packages/unrar/makefile.patch",
-      "https://raw.githubusercontent.com/zrsx/termux-ng/3a22e2f3a3/packages/unrar/os.hpp.patch"
+      "https://raw.githubusercontent.com/zrsx/termux-ng/082cfeed75/packages/unrar/makefile.patch",
+      "https://raw.githubusercontent.com/zrsx/termux-ng/082cfeed75/packages/unrar/os.hpp.patch"
     ],
     "auto_updated": true
   },
