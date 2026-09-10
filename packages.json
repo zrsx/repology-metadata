@@ -8880,15 +8880,15 @@
   },
   {
     "name": "flyctl",
-    "version": "0.4.101",
+    "version": "0.4.102",
     "description": "Command line tools for fly.io services",
     "homepage": "https://fly.io",
     "depends": [],
-    "srcurl": "https://github.com/superfly/flyctl/archive/refs/tags/v0.4.101.tar.gz",
+    "srcurl": "https://github.com/superfly/flyctl/archive/refs/tags/v0.4.102.tar.gz",
     "maintainer": "Yaksh Bariya <thunder-coding@termux.dev>",
-    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/4ef0ac4d25/packages/flyctl",
-    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/4ef0ac4d25/packages/flyctl/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/4ef0ac4d25/packages/flyctl/build.sh",
+    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/9b5080c0b6/packages/flyctl",
+    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/9b5080c0b6/packages/flyctl/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/9b5080c0b6/packages/flyctl/build.sh",
     "package_patch_urls": [],
     "package_patch_raw_urls": [],
     "auto_updated": true
@@ -18660,18 +18660,18 @@
   },
   {
     "name": "libkokkos",
-    "version": "5.2.1",
+    "version": "5.2.2",
     "description": "Implements a programming model in C++ for writing performance portable applications",
     "homepage": "https://github.com/kokkos",
     "depends": [
       "libandroid-execinfo",
       "libc++"
     ],
-    "srcurl": "https://github.com/kokkos/kokkos/archive/refs/tags/5.2.1.tar.gz",
+    "srcurl": "https://github.com/kokkos/kokkos/archive/refs/tags/5.2.2.tar.gz",
     "maintainer": "@termux",
-    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/3da000b3a0/packages/libkokkos",
-    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/3da000b3a0/packages/libkokkos/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/3da000b3a0/packages/libkokkos/build.sh",
+    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/23ac1e29e9/packages/libkokkos",
+    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/23ac1e29e9/packages/libkokkos/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/23ac1e29e9/packages/libkokkos/build.sh",
     "package_patch_urls": [],
     "package_patch_raw_urls": [],
     "auto_updated": true
@@ -42969,17 +42969,17 @@
   },
   {
     "name": "uv",
-    "version": "0.12.12",
+    "version": "0.12.13",
     "description": "An extremely fast Python package installer and resolver, written in Rust.",
     "homepage": "https://docs.astral.sh/uv/",
     "depends": [
       "zstd"
     ],
-    "srcurl": "https://github.com/astral-sh/uv/archive/refs/tags/0.12.12.tar.gz",
+    "srcurl": "https://github.com/astral-sh/uv/archive/refs/tags/0.12.13.tar.gz",
     "maintainer": "@termux",
-    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/fdf017b19b/packages/uv",
-    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/fdf017b19b/packages/uv/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/fdf017b19b/packages/uv/build.sh",
+    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/73fe2409ef/packages/uv",
+    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/73fe2409ef/packages/uv/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/73fe2409ef/packages/uv/build.sh",
     "package_patch_urls": [],
     "package_patch_raw_urls": [],
     "auto_updated": true
