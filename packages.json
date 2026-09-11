@@ -798,7 +798,7 @@
   },
   {
     "name": "ani-cli",
-    "version": "5.0",
+    "version": "5.1",
     "description": "A cli to browse and watch anime",
     "homepage": "https://github.com/pystardust/ani-cli",
     "depends": [
@@ -809,16 +809,16 @@
       "sed",
       "wget"
     ],
-    "srcurl": "https://github.com/pystardust/ani-cli/archive/refs/tags/v5.0.tar.gz",
+    "srcurl": "https://github.com/pystardust/ani-cli/archive/refs/tags/v5.1.tar.gz",
     "maintainer": "@termux",
-    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/9087a17ed5/packages/ani-cli",
-    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/9087a17ed5/packages/ani-cli/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/9087a17ed5/packages/ani-cli/build.sh",
+    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/e01c387921/packages/ani-cli",
+    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/e01c387921/packages/ani-cli/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/e01c387921/packages/ani-cli/build.sh",
     "package_patch_urls": [
-      "https://github.com/zrsx/termux-ng/blob/9087a17ed5/packages/ani-cli/ani-cli.patch"
+      "https://github.com/zrsx/termux-ng/blob/e01c387921/packages/ani-cli/ani-cli.patch"
     ],
     "package_patch_raw_urls": [
-      "https://raw.githubusercontent.com/zrsx/termux-ng/9087a17ed5/packages/ani-cli/ani-cli.patch"
+      "https://raw.githubusercontent.com/zrsx/termux-ng/e01c387921/packages/ani-cli/ani-cli.patch"
     ],
     "auto_updated": true
   },
@@ -10661,24 +10661,24 @@
   },
   {
     "name": "glslang",
-    "version": "16.5.0",
+    "version": "16.6.0",
     "description": "OpenGL and OpenGL ES shader front end and validator",
     "homepage": "https://github.com/KhronosGroup/glslang",
     "depends": [
       "libc++"
     ],
-    "srcurl": "https://github.com/KhronosGroup/glslang/archive/refs/tags/16.5.0.tar.gz",
+    "srcurl": "https://github.com/KhronosGroup/glslang/archive/refs/tags/16.6.0.tar.gz",
     "maintainer": "@termux",
-    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/6c3e59434f/packages/glslang",
-    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/6c3e59434f/packages/glslang/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/6c3e59434f/packages/glslang/build.sh",
+    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/e9ee5d6444/packages/glslang",
+    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/e9ee5d6444/packages/glslang/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/e9ee5d6444/packages/glslang/build.sh",
     "package_patch_urls": [
-      "https://github.com/zrsx/termux-ng/blob/6c3e59434f/packages/glslang/CMakeLists.txt.patch",
-      "https://github.com/zrsx/termux-ng/blob/6c3e59434f/packages/glslang/revert-only-install-public-headers.patch"
+      "https://github.com/zrsx/termux-ng/blob/e9ee5d6444/packages/glslang/CMakeLists.txt.patch",
+      "https://github.com/zrsx/termux-ng/blob/e9ee5d6444/packages/glslang/revert-only-install-public-headers.patch"
     ],
     "package_patch_raw_urls": [
-      "https://raw.githubusercontent.com/zrsx/termux-ng/6c3e59434f/packages/glslang/CMakeLists.txt.patch",
-      "https://raw.githubusercontent.com/zrsx/termux-ng/6c3e59434f/packages/glslang/revert-only-install-public-headers.patch"
+      "https://raw.githubusercontent.com/zrsx/termux-ng/e9ee5d6444/packages/glslang/CMakeLists.txt.patch",
+      "https://raw.githubusercontent.com/zrsx/termux-ng/e9ee5d6444/packages/glslang/revert-only-install-public-headers.patch"
     ],
     "auto_updated": true
   },
