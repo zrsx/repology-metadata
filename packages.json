@@ -15148,18 +15148,18 @@
   },
   {
     "name": "less",
-    "version": "702",
+    "version": "704",
     "description": "Terminal pager program used to view the contents of a text file one screen at a time",
     "homepage": "https://www.greenwoodsoftware.com/less/",
     "depends": [
       "ncurses",
       "pcre2"
     ],
-    "srcurl": "https://www.greenwoodsoftware.com/less/less-702.tar.gz",
+    "srcurl": "https://www.greenwoodsoftware.com/less/less-704.tar.gz",
     "maintainer": "Joshua Kahn <tom@termux.dev>",
-    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/326a81b762/packages/less",
-    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/326a81b762/packages/less/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/326a81b762/packages/less/build.sh",
+    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/858627cc9c/packages/less",
+    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/858627cc9c/packages/less/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/858627cc9c/packages/less/build.sh",
     "package_patch_urls": [],
     "package_patch_raw_urls": [],
     "auto_updated": true
@@ -37223,7 +37223,7 @@
   },
   {
     "name": "shaderc",
-    "version": "2026.3",
+    "version": "2026.4",
     "description": "Collection of tools, libraries, and tests for Vulkan shader compilation",
     "homepage": "https://github.com/google/shaderc",
     "depends": [
@@ -37231,11 +37231,11 @@
       "spirv-tools",
       "libc++"
     ],
-    "srcurl": "https://github.com/google/shaderc/archive/refs/tags/v2026.3.tar.gz",
+    "srcurl": "https://github.com/google/shaderc/archive/refs/tags/v2026.4.tar.gz",
     "maintainer": "@termux",
-    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/8d31869ed8/packages/shaderc",
-    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/8d31869ed8/packages/shaderc/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/8d31869ed8/packages/shaderc/build.sh",
+    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/cb48e59a8b/packages/shaderc",
+    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/cb48e59a8b/packages/shaderc/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/cb48e59a8b/packages/shaderc/build.sh",
     "package_patch_urls": [],
     "package_patch_raw_urls": [],
     "auto_updated": true
@@ -45736,15 +45736,15 @@
   },
   {
     "name": "zola",
-    "version": "0.23.4",
+    "version": "0.23.5",
     "description": "A fast static site generator in a single binary with everything built-in.",
     "homepage": "https://github.com/getzola/zola",
     "depends": [],
-    "srcurl": "https://github.com/getzola/zola/archive/refs/tags/v0.23.4.tar.gz",
+    "srcurl": "https://github.com/getzola/zola/archive/refs/tags/v0.23.5.tar.gz",
     "maintainer": "@termux",
-    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/afd875b5b8/packages/zola",
-    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/afd875b5b8/packages/zola/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/afd875b5b8/packages/zola/build.sh",
+    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/53c11575c7/packages/zola",
+    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/53c11575c7/packages/zola/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/53c11575c7/packages/zola/build.sh",
     "package_patch_urls": [],
     "package_patch_raw_urls": [],
     "auto_updated": true
