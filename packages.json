@@ -37620,15 +37620,15 @@
   },
   {
     "name": "sing-box",
-    "version": "1.14.0",
+    "version": "1.14.1",
     "description": "The universal proxy platform",
     "homepage": "https://sing-box.sagernet.org",
     "depends": [],
-    "srcurl": "https://github.com/SagerNet/sing-box/archive/refs/tags/v1.14.0.tar.gz",
+    "srcurl": "https://github.com/SagerNet/sing-box/archive/refs/tags/v1.14.1.tar.gz",
     "maintainer": "kay9925@outlook.com",
-    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/587f661a5e/packages/sing-box",
-    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/587f661a5e/packages/sing-box/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/587f661a5e/packages/sing-box/build.sh",
+    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/3cbb5e28cf/packages/sing-box",
+    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/3cbb5e28cf/packages/sing-box/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/3cbb5e28cf/packages/sing-box/build.sh",
     "package_patch_urls": [],
     "package_patch_raw_urls": [],
     "auto_updated": true
@@ -42969,17 +42969,17 @@
   },
   {
     "name": "uv",
-    "version": "0.12.13",
+    "version": "0.12.14",
     "description": "An extremely fast Python package installer and resolver, written in Rust.",
     "homepage": "https://docs.astral.sh/uv/",
     "depends": [
       "zstd"
     ],
-    "srcurl": "https://github.com/astral-sh/uv/archive/refs/tags/0.12.13.tar.gz",
+    "srcurl": "https://github.com/astral-sh/uv/archive/refs/tags/0.12.14.tar.gz",
     "maintainer": "@termux",
-    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/73fe2409ef/packages/uv",
-    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/73fe2409ef/packages/uv/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/73fe2409ef/packages/uv/build.sh",
+    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/3e5aa257ba/packages/uv",
+    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/3e5aa257ba/packages/uv/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/3e5aa257ba/packages/uv/build.sh",
     "package_patch_urls": [],
     "package_patch_raw_urls": [],
     "auto_updated": true
