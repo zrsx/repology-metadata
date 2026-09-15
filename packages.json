@@ -10033,20 +10033,20 @@
   },
   {
     "name": "gh",
-    "version": "2.100.0",
+    "version": "2.101.0",
     "description": "GitHub’s official command line tool",
     "homepage": "https://cli.github.com/",
     "depends": [],
-    "srcurl": "https://github.com/cli/cli/archive/refs/tags/v2.100.0.tar.gz",
+    "srcurl": "https://github.com/cli/cli/archive/refs/tags/v2.101.0.tar.gz",
     "maintainer": "Krishna kanhaiya @kcubeterm",
-    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/1b21264e72/packages/gh",
-    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/1b21264e72/packages/gh/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/1b21264e72/packages/gh/build.sh",
+    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/6288c4a5d1/packages/gh",
+    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/6288c4a5d1/packages/gh/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/6288c4a5d1/packages/gh/build.sh",
     "package_patch_urls": [
-      "https://github.com/zrsx/termux-ng/blob/1b21264e72/packages/gh/001-use-sh-for-extensions.patch"
+      "https://github.com/zrsx/termux-ng/blob/6288c4a5d1/packages/gh/001-use-sh-for-extensions.patch"
     ],
     "package_patch_raw_urls": [
-      "https://raw.githubusercontent.com/zrsx/termux-ng/1b21264e72/packages/gh/001-use-sh-for-extensions.patch"
+      "https://raw.githubusercontent.com/zrsx/termux-ng/6288c4a5d1/packages/gh/001-use-sh-for-extensions.patch"
     ],
     "auto_updated": true
   },
@@ -10464,15 +10464,15 @@
   },
   {
     "name": "glab-cli",
-    "version": "1.117.0",
+    "version": "1.118.0",
     "description": "A GitLab CLI tool bringing GitLab to your command line",
     "homepage": "https://gitlab.com/gitlab-org/cli",
     "depends": [],
-    "srcurl": "https://gitlab.com/gitlab-org/cli/-/archive/v1.117.0/cli-1.117.0.tar.bz2",
+    "srcurl": "https://gitlab.com/gitlab-org/cli/-/archive/v1.118.0/cli-1.118.0.tar.bz2",
     "maintainer": "@termux",
-    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/530cd80d59/packages/glab-cli",
-    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/530cd80d59/packages/glab-cli/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/530cd80d59/packages/glab-cli/build.sh",
+    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/a77a25aaee/packages/glab-cli",
+    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/a77a25aaee/packages/glab-cli/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/a77a25aaee/packages/glab-cli/build.sh",
     "package_patch_urls": [],
     "package_patch_raw_urls": [],
     "auto_updated": true
@@ -33340,7 +33340,7 @@
   },
   {
     "name": "proj",
-    "version": "9.8.1",
+    "version": "9.9.0",
     "description": "Generic coordinate transformation software",
     "homepage": "https://proj.org",
     "depends": [
@@ -33350,11 +33350,11 @@
       "libtiff",
       "libcurl"
     ],
-    "srcurl": "https://github.com/OSGeo/proj.4/archive/refs/tags/9.8.1.tar.gz",
+    "srcurl": "https://github.com/OSGeo/proj.4/archive/refs/tags/9.9.0.tar.gz",
     "maintainer": "Henrik Grimler @Grimler91",
-    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/710c0f53db/packages/proj",
-    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/710c0f53db/packages/proj/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/710c0f53db/packages/proj/build.sh",
+    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/9721857776/packages/proj",
+    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/9721857776/packages/proj/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/9721857776/packages/proj/build.sh",
     "package_patch_urls": [],
     "package_patch_raw_urls": [],
     "auto_updated": true
@@ -42390,7 +42390,7 @@
   },
   {
     "name": "ugrep",
-    "version": "7.8.4",
+    "version": "7.8.5",
     "description": "A faster, user-friendly and compatible grep replacement",
     "homepage": "https://github.com/Genivia/ugrep",
     "depends": [
@@ -42403,16 +42403,16 @@
       "zlib",
       "zstd"
     ],
-    "srcurl": "https://github.com/Genivia/ugrep/archive/refs/tags/v7.8.4.tar.gz",
+    "srcurl": "https://github.com/Genivia/ugrep/archive/refs/tags/v7.8.5.tar.gz",
     "maintainer": "@termux",
-    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/c5c78eff69/packages/ugrep",
-    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/c5c78eff69/packages/ugrep/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/c5c78eff69/packages/ugrep/build.sh",
+    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/4c23630e77/packages/ugrep",
+    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/4c23630e77/packages/ugrep/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/4c23630e77/packages/ugrep/build.sh",
     "package_patch_urls": [
-      "https://github.com/zrsx/termux-ng/blob/c5c78eff69/packages/ugrep/dependencies-fix.patch"
+      "https://github.com/zrsx/termux-ng/blob/4c23630e77/packages/ugrep/dependencies-fix.patch"
     ],
     "package_patch_raw_urls": [
-      "https://raw.githubusercontent.com/zrsx/termux-ng/c5c78eff69/packages/ugrep/dependencies-fix.patch"
+      "https://raw.githubusercontent.com/zrsx/termux-ng/4c23630e77/packages/ugrep/dependencies-fix.patch"
     ],
     "auto_updated": true
   },
@@ -42969,17 +42969,17 @@
   },
   {
     "name": "uv",
-    "version": "0.12.14",
+    "version": "0.12.15",
     "description": "An extremely fast Python package installer and resolver, written in Rust.",
     "homepage": "https://docs.astral.sh/uv/",
     "depends": [
       "zstd"
     ],
-    "srcurl": "https://github.com/astral-sh/uv/archive/refs/tags/0.12.14.tar.gz",
+    "srcurl": "https://github.com/astral-sh/uv/archive/refs/tags/0.12.15.tar.gz",
     "maintainer": "@termux",
-    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/3e5aa257ba/packages/uv",
-    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/3e5aa257ba/packages/uv/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/3e5aa257ba/packages/uv/build.sh",
+    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/8e1127fd2a/packages/uv",
+    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/8e1127fd2a/packages/uv/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/8e1127fd2a/packages/uv/build.sh",
     "package_patch_urls": [],
     "package_patch_raw_urls": [],
     "auto_updated": true
@@ -59900,15 +59900,15 @@
   },
   {
     "name": "libsimdutf",
-    "version": "9.1.2",
+    "version": "9.2.0",
     "description": "Unicode validation and transcoding at billions of characters per second",
     "homepage": "https://simdutf.github.io/simdutf/",
     "depends": [],
-    "srcurl": "https://github.com/simdutf/simdutf/archive/refs/tags/v9.1.2.tar.gz",
+    "srcurl": "https://github.com/simdutf/simdutf/archive/refs/tags/v9.2.0.tar.gz",
     "maintainer": "@termux",
-    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/ded53ccc7e/x11-packages/libsimdutf",
-    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/ded53ccc7e/x11-packages/libsimdutf/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/ded53ccc7e/x11-packages/libsimdutf/build.sh",
+    "package_sources_url": "https://github.com/zrsx/termux-ng/tree/ca39e2ce4a/x11-packages/libsimdutf",
+    "package_recipe_url": "https://github.com/zrsx/termux-ng/blob/ca39e2ce4a/x11-packages/libsimdutf/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/zrsx/termux-ng/ca39e2ce4a/x11-packages/libsimdutf/build.sh",
     "package_patch_urls": [],
     "package_patch_raw_urls": [],
     "auto_updated": true
